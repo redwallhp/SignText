@@ -1,3 +1,11 @@
+/**
+ *
+ * SignText
+ * Java reimplementation of the /signtext command found in NerdCH
+ * https://github.com/NerdNu/nerdCH/
+ * 
+ */
+
 package io.github.mcredwallhp.signtext;
 
 import org.bukkit.ChatColor;
