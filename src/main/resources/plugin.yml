@@ -1,0 +1,11 @@
+name: SignText
+main: io.github.mcredwallhp.signtext.SignText
+description: Easily edit signs
+version: ${project.version}
+
+commands:
+   signtext:
+      description: Edit the sign under your cursor. Supports colors.
+      usage: /signtext <line> <text>
+      permission: signtext.edit
+      permission-message: You don't have permission to do that.
