@@ -5,3 +5,5 @@ This Bukkit plugin makes it easier to edit signs in Minecraft. Just select a sig
 
     /signtext <line> <text>
     /signtext 1 This word is &4RED
+
+![Screenshot](http://i.imgur.com/pweVzm9.png)
